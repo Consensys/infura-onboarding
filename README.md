@@ -14,7 +14,7 @@
 ## Prerequisites
 
 * [Download and Set up MetaMask] (https://metamask.io/download/)
-* [Signup from Infura] (https://app.infura.io/dashboard)
+* [sign up for an Infura account that is free] (https://app.infura.io/register)
 
 ## Switch Network
 
