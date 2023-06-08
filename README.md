@@ -20,7 +20,7 @@
 
 Once your wallet is set up, navigate to the top-right of the wallet window and click on Show/Hide Test Networks. After showing test networks, you’ll see the drop-down option for Sepolia. Switch your network from Ethereum mainnet to Sepolia test network.
 
-![](.asset/wallet.png)
+![](asset/wallet.png)
 
 ## Top up Sepolia tokens to the wallet
 
